@@ -2,7 +2,7 @@
 
 Este projeto é um sistema para gerenciamento de reservas e avaliações de restaurantes. Ele foi desenvolvido utilizando o Spring Boot, seguindo os princípios de Clean Architecture para garantir modularidade e fácil manutenção.
 
-## Tecnologias usadas
+## Tecnologias usadas :computer:
 
 - Java 17: Linguagem de programação principal.
 - Spring Boot 3.3.2: Framework principal para criação do backend.
