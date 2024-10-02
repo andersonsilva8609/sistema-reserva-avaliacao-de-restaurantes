@@ -34,9 +34,8 @@ Clean Architecture proposta por Robert C. Martin. esse conceito de arquitetura �
 
 Certifique-se de ter um banco de dados MySQL configurado e rodando. As configurações do banco de dados estão no arquivo application.properties:
 
-spring.datasource.url=jdbc:mysql://localhost:3306/sistema-reserva-avaliacao-de-restaurantes
-spring.datasource.username=root
-spring.datasource.password=root
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-
+- spring.datasource.url=jdbc:mysql://localhost:3306/sistema-reserva-avaliacao-de-restaurantes
+- spring.datasource.username=root
+- spring.datasource.password=root
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show-sql=true
